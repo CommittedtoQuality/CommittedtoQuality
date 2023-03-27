@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lana! <a href="https://github.com/joshmadakor1">Software Test Engineer </a>, <a href="https://www.linkedin.com/in/lana-qe-mba/"> Automation Engineer</a> <a href="https://www.linkedin.com/in/lana-qe-mba/"></a></h1>
+<h1>Hi, I'm Lana! </br> <a href="https://github.com/joshmadakor1">Software Test Engineer </a>, <a href="https://www.linkedin.com/in/lana-qe-mba/"> Automation Engineer</a> <a href="https://www.linkedin.com/in/lana-qe-mba/"></a></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
 
