@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi, I'm Lana! <br/><a href="https://github.com/joshmadakor1">Software Test Engineer </a>, <a href="https://www.linkedin.com/in/joshmadakor/">QA Automation Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Trader</a></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
 
