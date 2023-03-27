@@ -3,8 +3,6 @@
 
 <h1>Hi, I'm Lana! </h1>
 
-🏄‍♂️ Forrest Knight
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
   
 <!--
