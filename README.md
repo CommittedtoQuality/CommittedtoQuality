@@ -1,5 +1,5 @@
   
-![Software Test Engineer](https://twitter.com/algaibanas/header_photo![image](https://user-images.githubusercontent.com/128669372/229003494-a53cb161-ef42-452a-821a-0957c1cb5610.png))
+![Software Test Engineer](https://pbs.twimg.com/profile_banners/1374770108162134018/1680227832/1500x500)
 
 <h1>Hi, I'm Lana! </h1>
 
