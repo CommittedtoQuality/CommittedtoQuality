@@ -1,5 +1,5 @@
   
-![Software Test Engineer](https://pbs.twimg.com/profile_banners/1374770108162134018/1680227832/1500x500)
+![Software Test Engineer](https://pbs.twimg.com/profile_banners/1374770108162134018/1680228386/1500x500)
 
 <h1>Hi, I'm Lana! </h1>
 
