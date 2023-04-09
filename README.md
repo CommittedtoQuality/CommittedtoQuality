@@ -5,6 +5,9 @@
 
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
+- <b>Cypress Automation</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
   
 <!--
