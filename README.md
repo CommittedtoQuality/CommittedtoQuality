@@ -3,9 +3,7 @@
 
 <h1><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer</a> </h1>
 
-Welcome to my GitHub profile! 
-
-Here I share my automated tests and other useful things 🚀
+Welcome to my GitHub profile! Here I share my automated tests and other useful things. 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
   
