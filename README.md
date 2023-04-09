@@ -8,7 +8,7 @@
 - <b>Cypress Automation Portfolio Project </b>
   - [Banking App](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python Automation Portfolio Project</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Tesla App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
   
