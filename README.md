@@ -9,6 +9,10 @@
   - [Banking App](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python Automation Portfolio Project</b>
   - [Tesla App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
+- <b>Test Plans</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Test Cases</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
   
