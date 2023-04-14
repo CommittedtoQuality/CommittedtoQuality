@@ -32,17 +32,6 @@
 
 
 ![Software Test Engineer](https://pbs.twimg.com/profile_banners/1374770108162134018/1680228386/1500x500)
-    
-<table>
-  <tr>
-    <td align="center" Align Middle width="500">
-      <H3>
-        Hi there :wave: I'm  <a href="https://www.linkedin.com/in/lana-qe-mba/">Lana</a> from California :us:
-      </H3>
-      <h1><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer</a> </h1>
-    </td>
-    <td align="center" width="500">
-
 <h1><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer</a> </h1>
 
 <h2>👨‍💻 Quality Engineering Projects:</h2>
