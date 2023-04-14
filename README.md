@@ -232,7 +232,7 @@
     </td>
     <td align="center"  width="96">
        <a href="https://code.visualstudio.com/">
-          <img src="./icons/vscode-original.svg" width="48" height="48" alt="VSCode" title="VSCode" />
+         <img src="./icons/VSCode-Dark.svg" width="48">   
        </a>
        <br>VSCode
     </td>
