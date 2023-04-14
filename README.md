@@ -251,7 +251,7 @@
     </td>
         <td align="center"  width="96">
        <a href="https://www.activestate.com/products/komodo-ide/">
-          <img src="./icons/komodo.svg" width="48" height="48" alt="Komodo" title="Komodo" />
+          <img src="icons/Github-Dark.svg" width="48" height="48" alt="Komodo" title="Komodo" />
        </a>
        <br>Komodo
     </td>
