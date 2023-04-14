@@ -1,5 +1,5 @@
 ![Software Test Engineer](https://pbs.twimg.com/profile_banners/1374770108162134018/1680228386/1500x500)
-<h1  align="center" Align Middle width="600" ><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer</a> </h1>
+<h1  align="center"><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer</a> </h1>
 
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
