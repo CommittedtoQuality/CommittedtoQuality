@@ -37,11 +37,9 @@
   <tr>
     <td align="center" Align Middle width="500">
       <H3>
-        Hi there :wave: I'm  <a href="https://www.linkedin.com/in/stan-sky/">Lana</a> from California :us:
+        Hi there :wave: I'm  <a href="https://www.linkedin.com/in/lana-qe-mba/">Lana</a> from California :us:
       </H3>
-        <p>Software development engineer in test 
-      <br> Senior Python Developer
-      </p>
+      <h1><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer</a> </h1>
     </td>
     <td align="center" width="500">
 
