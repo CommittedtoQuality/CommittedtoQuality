@@ -237,7 +237,7 @@
     </td>
     <td align="center"  width="96">
        <a href="https://www.jetbrains.com/pycharm/">
-          <img src="./icons/PyCharm_Icon.svg" width="48" height="48" alt="PyCharm" title="PyCharm" />
+       ![AWS S3](https://img.shields.io/badge/-AWSS3-000?&logo=awss3)
        </a>
        <br>PyCharm
     </td>
