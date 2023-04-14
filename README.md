@@ -5,9 +5,6 @@
       <H3>
         Hi there :wave: I'm  <a href="https://www.linkedin.com/in/lana-qe-mba/">Lana</a> from California :us:
       </H3>
-        <p>Software development engineer in test 
-      <br> Senior Python Developer
-      </p>
     </td>
     <td align="center" width="500">
       <p>📫 How to reach me:</p>
