@@ -1,7 +1,7 @@
 ![Software Test Engineer](https://pbs.twimg.com/profile_banners/1374770108162134018/1680228386/1500x500)
 <h1><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer</a> </h1>
 
-<strong><em>Balance technical acumen with user advocacy - with equal emphasis on both.</em></strong>
+<strong><em>Balance technical acumen with user advocacy - with equal emphasis on both.</em></strong> <br/>
 <strong><em> Influence the building of the software before the software is built.</em></strong>
 
 <h2>👨‍💻 Quality Engineering Projects:</h2>
