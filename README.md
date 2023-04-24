@@ -3,6 +3,7 @@
 
 <strong><em>Balance technical acumen with user advocacy - with equal emphasis on both.</em></strong> <br/>
 <strong><em> Influence the building of the software before the software is built.</em></strong>
+<strong><em>Devoted to the quality of the SDLC. </em></strong>
 
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
