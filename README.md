@@ -11,37 +11,30 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Lana L
+located_in: Los Angeles, CA
+current_job: Test Engineer 
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "MBA",
+    "Bachelor's in Business Administration",
   ]
-company: Soulber
+company: Guild Education
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Test Automation",
+    "Accesibility",
+    "Performance Egineering",
+    "Functional Security"
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Quality Enginner (EdTech)"
   ]
   
 currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 ```
 <h1><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer</a> </h1>
 
