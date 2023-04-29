@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">
+  <img src= "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </p>
 
 ---
