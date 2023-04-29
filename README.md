@@ -5,16 +5,8 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-</p>
-
-<p align="center">
   <img src= "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </p>
-
----
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
