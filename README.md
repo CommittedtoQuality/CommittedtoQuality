@@ -21,7 +21,7 @@
     </td>
     <td align="center" width="500">
       <p>📫 How to reach me:</p>
-      <a href="https://www.linkedin.com/in/stan-sky/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
+      <a href="https://www.linkedin.com/in/lana-qe-mba/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
       <a href="https://www.upwork.com/freelancers/~0169627626a2377fda"><img src="./icons/upwork.svg" alt="Upwork" width="48" height="48"></a>
       <a href="https://www.codewars.com/users/Stan_SKY"><img src="./icons/codewars.svg" alt="CodeWars" width="48" height="48"></a>
       <a href="https://www.hackerrank.com/stan_sky"><img src="./icons/HackerRank.png" alt="HackerRank" width="48" height="48"></a>
