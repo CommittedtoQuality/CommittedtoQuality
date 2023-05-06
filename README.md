@@ -15,8 +15,8 @@
       <H3>
         Hi there :wave: I'm  <a href="https://www.linkedin.com/in/lana-qe-mba/">Lana</a> from Los Angeles :us:
       </H3>
-        <p>Software development engineer in test 
-      <br> Senior Python Developer
+        <p>Software Test Engineer 
+      <br> 𝐐𝐄 & 𝐒𝐃𝐋𝐂 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
       </p>
     </td>
     <td align="center" width="500">
