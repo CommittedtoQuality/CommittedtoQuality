@@ -71,6 +71,11 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 <strong><em>Balance technical acumen with user advocacy - with equal emphasis on both.</em></strong> <br/>
 <strong><em> Influence the building of the software before the software is built.</em></strong> <br/>
 <strong><em>Devoted to the quality of the SDLC. </em></strong>
+     
+    
+#### My favorite (QA and programming related) quotes: 
+> - Everything is easy, when you know how to do this.  
+> - Don't talk, just try to do.
 
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
