@@ -15,7 +15,7 @@
       <H3>
         Hi there :wave: I'm  <a href="https://www.linkedin.com/in/lana-qe-mba/">Lana</a> from Los Angeles :us:
       </H3>
-        <p>Software Test Engineer 
+        <p> 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐓𝐞𝐬𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 
       <br> 𝐐𝐄 & 𝐒𝐃𝐋𝐂 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
       </p>
     </td>
