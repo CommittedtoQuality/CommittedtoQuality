@@ -8,6 +8,33 @@
   <img src= "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </p>
 
+
+<table>
+  <tr>
+    <td align="center" Align Middle width="500">
+      <H3>
+        Hi there :wave: I'm  <a href="https://www.linkedin.com/in/stan-sky/">Konstantin</a> from California :us:
+      </H3>
+        <p>Software development engineer in test 
+      <br> Senior Python Developer
+      </p>
+    </td>
+    <td align="center" width="500">
+      <p>📫 How to reach me:</p>
+      <a href="https://www.linkedin.com/in/stan-sky/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
+      <a href="https://www.upwork.com/freelancers/~0169627626a2377fda"><img src="./icons/upwork.svg" alt="Upwork" width="48" height="48"></a>
+      <a href="https://www.codewars.com/users/Stan_SKY"><img src="./icons/codewars.svg" alt="CodeWars" width="48" height="48"></a>
+      <a href="https://www.hackerrank.com/stan_sky"><img src="./icons/HackerRank.png" alt="HackerRank" width="48" height="48"></a>
+      <a href="https://leetcode.com/Smolnikov/"><img src="./icons/leetcode.svg" alt="LeetCode" width="48" height="48"></a>
+      <a href="https://stackoverflow.com/users/16498405/stan-sky?tab=profile"><img src="./icons/Stack_Overflow_icon.svg" alt="Stackoverflow" width="48" height="48"></a>
+    </td>
+    </tr>
+  <table>
+    
+    
+    
+    
+
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
