@@ -40,6 +40,9 @@
    <div align="center">
   <img src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif"style="width:700px">
     </div>
+     
+     <div align="center">
+<img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
