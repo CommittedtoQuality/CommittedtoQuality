@@ -83,6 +83,7 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 > - Everything is easy, when you know how to do this.  
 > - Don't talk, just try to do.
 > - “Never allow the same bug to bite you twice.” (Steve Maguire)
+> - A tester has the heart of a developer... in a jar on the desk. lol
 
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
