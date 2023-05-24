@@ -82,6 +82,7 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 #### My favorite (QA and programming related) quotes: 
 > - Everything is easy, when you know how to do this.  
 > - Don't talk, just try to do.
+> - “Never allow the same bug to bite you twice.” (Steve Maguire)
 
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
