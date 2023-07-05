@@ -5,6 +5,8 @@
 </p>
 <div align="center">  
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
+<h1 style="border:2px solid Violet;">Hello World</h1>
+<h2 style="color: red"> &nbsp;A Little Bit About Me </h2>
 <h1 style="border:2px solid Violet;">About Me </h1>
 ```yaml
 name: Lana L
