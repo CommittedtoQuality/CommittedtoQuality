@@ -43,6 +43,9 @@ favorite_quotes:
 currently_learning: ["Docker"]
 hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 ```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
+</p>
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
 - <b> Test Automation with Cypress Portfolio Project </b>
