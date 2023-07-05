@@ -3,16 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
 </p>
-
-       
-
-     
-
-
-
-
-
-  
+<div align="center">  
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
