@@ -4,28 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
 </p>
 
-<table>
-  <tr>
-    <td align="center" Align Middle width="500">
-      <H3>
-        Hi there :wave: I'm  <a href="https://www.linkedin.com/in/lana-qe-mba/">Lana</a> from Los Angeles :us:
-      </H3>
-        <p> 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐓𝐞𝐬𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 
-      <br> 𝐐𝐄 & 𝐒𝐃𝐋𝐂 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭
-      </p>
-    </td>
-    <td align="center" width="500">
-      <p>📫 How to reach me:</p>
-      <a href="https://www.linkedin.com/in/lana-qe-mba/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
-      <a href="https://www.codewars.com"><img src="./icons/codewars.svg" alt="CodeWars" width="48" height="48"></a>
-      <a href="https://www.hackerrank.com/lana_pembe_ipek"><img src="./icons/HackerRank.png" alt="HackerRank" width="48" height="48"></a>
-      <a href="https://leetcode.com"><img src="./icons/leetcode.svg" alt="LeetCode" width="48" height="48"></a>
-    </td>
-    </tr>
-  <table>
-    
-    
-  
   <div align="center">
    
   ![](https://github.com/Alesia-Bahdanava/Alesia-Bahdanava/blob/main/DALL%C2%B7E%20700.png)
