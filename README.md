@@ -10,9 +10,7 @@
     
    <div align="center">  
        
-   <div align="center">
-  <img src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif"style="width:700px">
-    </div>
+
      
 
 
