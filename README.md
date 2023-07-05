@@ -4,7 +4,7 @@
 
 
 <h1>Hi, I'm Lana! <br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer. Devoted to the quality of the SDLC.</a> 
-<h1 align="center"><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer. Devoted to the quality of the SDLC.</a></h1>
+</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
 </p>
