@@ -22,8 +22,8 @@ fields_of_interests:
   [
     "Test Automation",
     "Accesibility",
-    "Performance Egineering",
-    "Functional Security"
+    "Web3 Testing",
+    "Blockchain Technology"
   ]
 technical_background:
   [
