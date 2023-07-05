@@ -33,7 +33,7 @@ domain_experience:
     "Stocks, Trading & Cryptocurrency"
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["Docker"]
 hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 ```
 
