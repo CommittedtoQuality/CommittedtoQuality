@@ -16,7 +16,7 @@ education:
     "MBA in International Business and Finance, University of La Verne",
     "Marketing and Advertising Management, UCLA",
   ]
-company: Guild Education
+company: Guild
 
 fields_of_interests:
   [
