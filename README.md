@@ -2,7 +2,7 @@
 <div align="center">  
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
-<h1 align="center"><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer, Devoted to the quality of the SDLC.</a></h1>
+<h1 align="center"><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer. Devoted to the quality of the SDLC.</a></h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
 </p>
@@ -14,7 +14,7 @@ current_job: Test Engineer. Influence the building of the software before the so
 education:
   [
     "MBA in International Business and Finance, University of La Verne",
-    "Marketing and Advertising Management, UCLA",
+    "Marketing and Advertising Management, UCLA"
   ]
 company: Guild
 
@@ -35,19 +35,11 @@ domain_experience:
 
 favorite_quotes:
   [
-    "Never allow the same bug to bite you twice",
-    "Accesibility",
-    "Web3 Testing",
-    "Blockchain Technology"
+    "Never allow the same bug to bite you twice"
   ] 
 currently_learning: ["Docker"]
 hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 ```
-
-<strong><em>Balance technical acumen with user advocacy - with equal emphasis on both.</em></strong> <br/>
-<strong><em> Influence the building of the software before the software is built.</em></strong> <br/>
-<strong><em>Devoted to the quality of the SDLC. </em></strong>
-
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
 - <b>Cypress Automation Portfolio Project </b>
