@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
 </p>
 
-  <div align="center">
-   
-  ![](https://github.com/Alesia-Bahdanava/Alesia-Bahdanava/blob/main/DALL%C2%B7E%20700.png)
-    
-   <div align="center">  
        
 
      
