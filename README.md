@@ -35,16 +35,16 @@ domain_experience:
 
 favorite_quotes:
   [
-    "Never allow the same bug to bite you twice"
+    "Never allow the same bug to bite you twice."
   ] 
 currently_learning: ["Docker"]
 hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 ```
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
-- <b>Cypress Automation Portfolio Project </b>
+- <b> Test Automation with Cypress Portfolio Project </b>
   - [Banking App](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Python Automation Portfolio Project</b>
+- <b>Test Automation with Selenium + Python Portfolio Project</b>
   - [Tesla App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
 - <b>Test Plans</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
