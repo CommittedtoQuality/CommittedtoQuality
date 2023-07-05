@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
 </p>
 
-<p align="center">
-  <img src= "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
-</p>
-
-
 <table>
   <tr>
     <td align="center" Align Middle width="500">
