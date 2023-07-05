@@ -2,6 +2,8 @@
 <div align="center">  
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
+
+<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer. Devoted to the quality of the SDLC.</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 <h1 align="center"><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer. Devoted to the quality of the SDLC.</a></h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
