@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
 </p>
 <div align="center">  
+<h1 style="border:2px solid Violet;">Hello World</h1>
 <h2 style="color: red"> &nbsp;A Little Bit About Me </h2>
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
