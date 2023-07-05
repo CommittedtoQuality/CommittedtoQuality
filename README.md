@@ -6,7 +6,7 @@
 <div align="center">  
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
-<h1><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer, SDLC Efficiency Enthusiast</a></h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
+<h1><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer, SDLC Efficiency Enthusiast</a>
 
 ```yaml
 name: Lana L
@@ -40,7 +40,7 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 <strong><em>Devoted to the quality of the SDLC. </em></strong>
      
     
-#### My favorite (QA and programming related) quotes: 
+</h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">#### My favorite (QA and programming related) quotes: 
 > - Everything is easy, when you know how to do this.  
 > - Don't talk, just try to do.
 > - “Never allow the same bug to bite you twice.” (Steve Maguire)
