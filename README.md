@@ -14,7 +14,7 @@ current_job: Test Engineer
 education:
   [
     "MBA in International Business and Finance, University of La Verne",
-    "Bachelor's in Business Administration",
+    "Marketing and Advertising Management, UCLA",
   ]
 company: Guild Education
 
