@@ -25,9 +25,12 @@ fields_of_interests:
     "Web3 Testing",
     "Blockchain Technology"
   ]
-technical_background:
+domain_experience:
   [
-    "Quality Enginner (EdTech)"
+    "EdTech",
+    "Payments & Reimbursement Systems",
+    "Hospitality",
+    "Stocks, Trading & Cryptocurrency"
   ]
   
 currently_learning: ["Docker, Kubernetes and React Native"]
