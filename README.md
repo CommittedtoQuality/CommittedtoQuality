@@ -32,7 +32,14 @@ domain_experience:
     "Hospitality",
     "Stocks, Trading & Cryptocurrency"
   ]
-  
+
+favorite_quotes:
+  [
+    "Test Automation",
+    "Accesibility",
+    "Web3 Testing",
+    "Blockchain Technology"
+  ] 
 currently_learning: ["Docker"]
 hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 ```
