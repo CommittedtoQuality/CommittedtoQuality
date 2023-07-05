@@ -48,7 +48,7 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 - <b> Test Automation with Cypress Portfolio Project </b>
   - [Banking App](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Test Automation with Selenium + Python Portfolio Project</b>
-  - [Tesla App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
+  - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
 - <b>Test Plans</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Test Suites and Test Cases</b>
