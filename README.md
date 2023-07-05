@@ -4,9 +4,8 @@
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
 
-<h1>  🤳 Hi, I'm Lana! 
+<h1>  🤳 <a href="https://github.com/joshmadakor1"> About Me </a> 
 </h1> </br>
- <h1><a href="https://github.com/joshmadakor1"> About Me </a> </h1>
 ```yaml
 name: Lana 
 located_in: Los Angeles, CA
