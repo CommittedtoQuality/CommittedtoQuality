@@ -4,7 +4,7 @@
 
 
 <h1>Hi, I'm Lana! <br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer. Devoted to the quality of the SDLC.</a>
-<img src="https://bigpicture.one/wp-content/uploads/2018/11/bug-software-testing-facto-of-life.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 200px; height: 202px; margin: 0px; width: 200px;" alt="WarsawJS Workshop #24: How to get rid of Software Bugs? SoftwarePlant" jsname="kn3ccd" aria-hidden="false">
+<img src="https://techconative.com/images/portfolio/restel_banner.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width:200px; height: 202px; margin: 0px; width: 259px;" alt="Restel - No(Low) code REST API automation tool" jsname="kn3ccd" aria-hidden="false"> 
 </h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
