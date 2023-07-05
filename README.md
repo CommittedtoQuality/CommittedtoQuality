@@ -6,7 +6,7 @@
 <div align="center">  
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
-<h1>About Me </h1>
+<h1><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer</a> </h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 
 ```yaml
 name: Lana L
@@ -34,7 +34,6 @@ technical_background:
 currently_learning: ["Docker, Kubernetes and React Native"]
 hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 ```
-<h1><br/><a href="https://www.linkedin.com/in/lana-qe-mba/">Software Test Engineer</a> </h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 
 <strong><em>Balance technical acumen with user advocacy - with equal emphasis on both.</em></strong> <br/>
 <strong><em> Influence the building of the software before the software is built.</em></strong> <br/>
