@@ -10,7 +10,7 @@
 ```yaml
 name: Lana 
 located_in: Los Angeles, CA
-current_job: Test Engineer 
+current_job: Test Engineer. Influence the building of the software before the software is built. 
 education:
   [
     "MBA in International Business and Finance, University of La Verne",
