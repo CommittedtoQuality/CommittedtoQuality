@@ -35,7 +35,7 @@ domain_experience:
 
 favorite_quotes:
   [
-    "Test Automation",
+    "Never allow the same bug to bite you twice",
     "Accesibility",
     "Web3 Testing",
     "Blockchain Technology"
