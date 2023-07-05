@@ -6,7 +6,8 @@
 <div align="center">  
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>
 
-<h1 style="border:2px solid Violet;">About Me </h1>
+<h1>About Me </h1>
+
 ```yaml
 name: Lana L
 located_in: Los Angeles, CA
