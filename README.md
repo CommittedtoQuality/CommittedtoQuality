@@ -13,7 +13,7 @@ located_in: Los Angeles, CA
 current_job: Test Engineer 
 education:
   [
-    "MBA",
+    "MBA in International Business and Finance, University of La Verne",
     "Bachelor's in Business Administration",
   ]
 company: Guild Education
