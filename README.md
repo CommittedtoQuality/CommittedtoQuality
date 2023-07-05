@@ -46,7 +46,7 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
 - <b> Test Automation with Cypress Portfolio Project </b>
-  - [Banking App](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
 - <b>Test Automation with Selenium + Python Portfolio Project</b>
   - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
 - <b>Test Plans</b>
