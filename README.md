@@ -8,7 +8,7 @@
 </p>
 
 ```yaml
-name: Lana L
+name: Lana 
 located_in: Los Angeles, CA
 current_job: Test Engineer 
 education:
