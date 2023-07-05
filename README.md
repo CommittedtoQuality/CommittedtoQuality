@@ -55,8 +55,6 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 > - “Never allow the same bug to bite you twice.” (Steve Maguire)
 > - A tester has the heart of a developer... in a jar on the desk. lol
 
-  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/6eef4141c691cf6b9acb7fb92e77ca8a655cd3d6668a4cd0c31a6a6443b05266/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6a42684e3249324e575532595749345a4449794e7a517859575977596a4d334e4451304d44457a597a5a6a595451775a4464684e795a6c634431324d563970626e526c636d35686246396e61575a7a583264705a6b6c6b4a6d4e305057632f54696c6d4c4d6d5772525959486a4c6675622f67697068792e676966">
-
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
 - <b>Cypress Automation Portfolio Project </b>
