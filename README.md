@@ -6,6 +6,7 @@
 
 <h1>  🤳 Hi, I'm Lana! 
 </h1> </br>
+ <h1><a href="https://github.com/joshmadakor1"> About Me </a> </h1>
 ```yaml
 name: Lana 
 located_in: Los Angeles, CA
