@@ -3,7 +3,7 @@
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>  <h1><a href="https://github.com/joshmadakor1">Devoted to the Quality of the SDLC </a> </h1>
 
 
-<h1>  🤳 <a href="https://github.com/joshmadakor1"> About Me </a> 
+<h1 align="center" >  🤳 <a href="https://github.com/joshmadakor1"> About Me </a> 
 </h1> </br>
 
 ```yaml
