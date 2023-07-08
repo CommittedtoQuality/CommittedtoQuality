@@ -7,6 +7,7 @@
 
 
 <h1 align="center" >  🤳 <a href="https://github.com/joshmadakor1"> About Me </a> 
+<h2> 🤳 About Me: </h2>
 </h1> </br>
 
 ```yaml
