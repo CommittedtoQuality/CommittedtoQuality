@@ -1,5 +1,3 @@
-<div align="center">
-<img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div> 
 <h2> 🤳 Devoted To The Quality of the SDLC: </h2>
 </h1> </br>
 
@@ -312,7 +310,8 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
   <img src="https://www.nexsoftsys.com/images/Functional-trainging.gif">
  </div>
   
-  
+<div align="center">
+<img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div> 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
