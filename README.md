@@ -1,4 +1,4 @@
-![Software Test Engineer](https://pbs.twimg.com/profile_banners/1374770108162134018/1680228386/1500x500)
+
  <h1 align="center"><a href="https://github.com/joshmadakor1">Devoted to the Quality of the SDLC </a> </h1>
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
