@@ -1,5 +1,3 @@
-
- <h1 align="center"><a href="https://github.com/joshmadakor1">Devoted to the Quality of the SDLC </a> </h1>
 <div align="center">
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div> 
 <h2> 🤳 Devoted To The Quality of the SDLC: </h2>
