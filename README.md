@@ -48,6 +48,8 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
 - <b>Test Automation with Selenium + Python Portfolio Project</b>
   - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
+
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
 
 ---
