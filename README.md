@@ -1,8 +1,5 @@
 
  <h1 align="center"><a href="https://github.com/joshmadakor1">Devoted to the Quality of the SDLC </a> </h1>
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
-</p>
 <div align="center">
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div> 
 <h2> 🤳 About Me: </h2>
@@ -51,6 +48,9 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
 
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
+</p>
 ---
 
  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=28&duration=1800&pause=3000&color=0c0062&background=6ECF4200&center=true&vCenter=true&multiline=true&width=600&height=53&lines=🛠+Technologies+and+tools+I'm+working+with:" alt="Typing SVG" /></a> 
