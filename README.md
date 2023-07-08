@@ -1,5 +1,8 @@
 ![Software Test Engineer](https://pbs.twimg.com/profile_banners/1374770108162134018/1680228386/1500x500)
  <h1><a href="https://github.com/joshmadakor1">Devoted to the Quality of the SDLC </a> </h1>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
+</p>
 <img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div>  <h1><a href="https://github.com/joshmadakor1">Devoted to the Quality of the SDLC </a> </h1>
 
 
@@ -39,9 +42,6 @@ favorite_quotes:
 currently_learning: ["Docker"]
 hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 ```
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
-</p>
 <h2>👨‍💻 Quality Engineering Projects:</h2>
 
 - <b> Test Automation with Cypress Portfolio Project </b>
