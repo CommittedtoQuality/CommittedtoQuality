@@ -4,7 +4,7 @@
 ```yaml
 name: Lana 
 located_in: Los Angeles, CA
-current_job: Test Engineer. Influence the building of the software before the software is built. 
+current_job: Test Engineer. Influence the building of the software before the software is built. I'm devoted to the Quality of the SDLC. 
 education:
   [
     "MBA in International Business and Finance, University of La Verne",
