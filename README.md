@@ -1,13 +1,9 @@
 <h2> 🤳 About Me: </h2>
 <!-- About section -->
-✨ I am a Full Stack Software Development Engineer in Test with over 5 years of experience in the field of testing methodologies with diversified skills in Manual and Automated Testing.
+✨ I am a Full Stack Software Development Engineer in Test with over 5 years of experience in the field of testing methodologies with diversified skills in manual and automated testing.
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
-- 😄 My Pronouns: She/Her   
-
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
 
 - 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
 
