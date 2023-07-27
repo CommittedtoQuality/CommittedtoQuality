@@ -1,7 +1,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/lana-qe-mba/">Lana</a></h2>
 <!-- About section -->
-I am a Full Stack Software Development Engineer in Test with over 5 years of experience in in manual and automated testing methodologies and tools. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. 
+I am a Full Stack Software Development Engineer in Test with over 5 years of experience in in manual and automated testing methodologies and tools. nsuring all development tasks meet quality criteria through test planning, test execution, quality assurance, and issue tracking. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. 
 
 
 ```yaml
