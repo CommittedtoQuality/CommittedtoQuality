@@ -325,8 +325,7 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!--
 **CommittedtoQuality/CommittedtoQuality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
