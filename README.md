@@ -4,8 +4,6 @@
 I am a Full Stack Software Development Engineer in Test with over 5 years of experience in in manual and automated testing methodologies and tools. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. 
 
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-
 ```yaml
 name: Lana 
 located_in: Los Angeles, CA
@@ -334,8 +332,7 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-
-
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <!--
 **CommittedtoQuality/CommittedtoQuality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
