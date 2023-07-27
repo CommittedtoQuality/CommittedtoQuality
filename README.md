@@ -1,8 +1,5 @@
 <h2> 🤳 About Me: </h2>
-</h1> </br>
-
 <!-- About section -->
-
 ---
 ✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
