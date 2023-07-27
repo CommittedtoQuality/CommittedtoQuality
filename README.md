@@ -2,6 +2,7 @@
 <!-- About section -->
 ✨ I am a Full Stack Software Development Engineer in Test with over 5 years of experience in the field of testing methodologies with diversified skills in manual and automated testing.
 
+
 ```yaml
 name: Lana 
 located_in: Los Angeles, CA
