@@ -43,7 +43,7 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 
 <h2>👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Quality Engineering Projects: 🤳 </h2>
 
-- <b> Test Automation with Cypress Portfolio Project </b>
+- <b> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Test Automation with Cypress Portfolio Project </b>
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
 - <b>Test Automation with Selenium + Python Portfolio Project</b>
   - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
