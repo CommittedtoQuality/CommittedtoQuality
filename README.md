@@ -1,8 +1,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/lana-qe-mba/">Lana</a></h2>
 <!-- About section -->
-I am a Full Stack Software Development Engineer in Test with over 5 years of experience in the field of testing methodologies with diversified skills in manual and automated testing.
-
+I am a Full Stack Software Development Engineer in Test with over 5 years of experience in in manual and automated testing methodologies and tools. 
 
 ```yaml
 name: Lana 
