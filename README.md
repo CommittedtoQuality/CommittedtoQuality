@@ -16,23 +16,6 @@ education:
     "MBA in International Business and Finance, University of La Verne",
     "Marketing and Advertising Management, UCLA"
   ]
-company: Guild
-
-fields_of_interests:
-  [
-    "Test Automation",
-    "Accesibility",
-    "Web3 Testing",
-    "Blockchain Technology"
-  ]
-domain_experience:
-  [
-    "EdTech",
-    "Payments & Reimbursement Systems",
-    "Hospitality",
-    "Stocks, Trading & Cryptocurrency"
-  ]
-
 ```
 
 
