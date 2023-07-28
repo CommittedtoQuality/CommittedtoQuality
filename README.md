@@ -254,13 +254,6 @@ I am a Full Stack Software Development Engineer in Test with over 5 years of exp
   </tr>
 </table>
    
- <div align="center">
-  <img src="https://www.nexsoftsys.com/images/Functional-trainging.gif">
- </div>
-  
-<div align="center">
-<img src="https://www.techfirefly.com/static/media/HomepageBanner.9fba1d92.gif"></div> 
-
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <!--
