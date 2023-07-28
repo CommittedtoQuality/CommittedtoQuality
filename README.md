@@ -254,19 +254,6 @@ I am a Full Stack Software Development Engineer in Test with over 5 years of exp
   </tr>
 </table>
 
-
-
-
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=#QualityEngineering!&height=100&section=header"/>
-</p>
-
-
-
-
-<div align="center">  
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
   
