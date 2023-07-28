@@ -33,12 +33,6 @@ domain_experience:
     "Stocks, Trading & Cryptocurrency"
   ]
 
-favorite_quotes:
-  [
-    "Never allow the same bug to bite you twice."
-  ] 
-currently_learning: ["Docker"]
-hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 ```
 
 
@@ -51,7 +45,9 @@ hobbies: ["Reading", "Cooking", "Art", "Comedy"]
 
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
-  
+
+ "Never allow the same bug to bite you twice."  
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
 
 
