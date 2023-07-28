@@ -11,11 +11,6 @@ current_job: Test Engineer. ◄ Influence the building of the software before th
 code: ["Javascript, HTML, CSS, Python, SQL"]
 tools: ["Jira, Slack, Node, GitHub, Selenium, Postman_API, Visual_Studio, Pycharm"],
 responsibilities: ["Requirement analysis", "Test planning", "Test case design and development"],
-education:
-  [
-    "MBA in International Business and Finance, University of La Verne",
-    "Marketing and Advertising Management, UCLA"
-  ]
 ```
 
 
