@@ -3,7 +3,7 @@
 <!-- About section -->
 I am a Full Stack Software Development Engineer in Test with over 5 years of experience in in manual and automated testing methodologies and tools. nsuring all development tasks meet quality criteria through test planning, test execution, quality assurance, and issue tracking. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. 
 
-<h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Quality Engineering Projects: </h2>
+<h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Quality Engineering Projects:  "Never allow the same bug to bite you twice." </h2>
 
 - <b> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Test Automation with Cypress Portfolio Project </b>
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
@@ -15,14 +15,6 @@ I am a Full Stack Software Development Engineer in Test with over 5 years of exp
 
  "Never allow the same bug to bite you twice."  
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true)
-
-
-
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=CommittedtoQuality&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  <p>
-
 ---
 
  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=28&duration=1800&pause=3000&color=0c0062&background=6ECF4200&center=true&vCenter=true&multiline=true&width=600&height=53&lines=🛠+Technologies+and+tools+I'm+working+with:" alt="Typing SVG" /></a> 
