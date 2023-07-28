@@ -253,10 +253,6 @@ I am a Full Stack Software Development Engineer in Test with over 5 years of exp
     </td>
   </tr>
 </table>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-  
    
  <div align="center">
   <img src="https://www.nexsoftsys.com/images/Functional-trainging.gif">
