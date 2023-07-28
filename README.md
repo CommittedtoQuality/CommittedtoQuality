@@ -8,13 +8,7 @@ I am a Full Stack Software Development Engineer in Test with over 5 years of exp
 - <b> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Test Automation with Cypress Portfolio Project </b>
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
 - <b> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Test Automation with Selenium + Python Portfolio Project</b>
-  - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
-
-
-<h3> Daily Quotations</a></h3>
-
- "Never allow the same bug to bite you twice."  
- 
+  - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i> 
 ---
 
  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=28&duration=1800&pause=3000&color=0c0062&background=6ECF4200&center=true&vCenter=true&multiline=true&width=600&height=53&lines=🛠+Technologies+and+tools+I'm+working+with:" alt="Typing SVG" /></a> 
