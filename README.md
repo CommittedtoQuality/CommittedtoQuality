@@ -3,7 +3,7 @@
 <!-- About section -->
 I am a Full Stack Software Development Engineer in Test with over 5 years of experience in in manual and automated testing methodologies and tools. nsuring all development tasks meet quality criteria through test planning, test execution, quality assurance, and issue tracking. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. 
 
-<h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Quality Engineering Projects:  "Never allow the same bug to bite you twice." </h2>
+<h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Quality Engineering Projects:  "Never allow the same bug to bite you twice." <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> </h2>
 
 - <b> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Test Automation with Cypress Portfolio Project </b>
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
