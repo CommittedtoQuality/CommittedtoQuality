@@ -5,7 +5,7 @@ I am a Full Stack Software Development Engineer in Test with over 5 years of exp
 
 <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Quality Engineering Projects:  "Never allow the same bug to bite you twice." <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> </h2>
 
-- <b> Test Automation with Cypress Portfolio Project </b>
+- <b> img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Test Automation with Cypress Portfolio Project </b>
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
 - <b> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Test Automation with Selenium + Python Portfolio Project</b>
   - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i> 
