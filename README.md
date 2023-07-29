@@ -1,4 +1,3 @@
----
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h2>Hey <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>, I'm <a href="https://www.linkedin.com/in/lana-qe-mba/">Lana</a></h2>
 <!-- About section -->
