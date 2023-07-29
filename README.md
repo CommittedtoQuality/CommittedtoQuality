@@ -3,6 +3,12 @@
 <!-- About section -->
 I am a Full Stack Software Development Engineer in Test with over 5 years of experience in in manual and automated testing methodologies and tools. nsuring all development tasks meet quality criteria through test planning, test execution, quality assurance, and issue tracking. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. 
 
+## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
+<a href="https://www.linkedin.com/in/ingajumir/" target="blank" >
+  
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Quality Engineering Projects:  "Never allow the same bug to bite you twice." </h2>
 
 - <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Test Automation with Cypress Portfolio Project </b>
@@ -254,13 +260,7 @@ I am a Full Stack Software Development Engineer in Test with over 5 years of exp
   </tr>
 </table>
 
-## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
-<a href="https://www.linkedin.com/in/ingajumir/" target="blank" >
   
-  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-   
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <!--
