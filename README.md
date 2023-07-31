@@ -112,7 +112,6 @@
       <br>
       <br>
       <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      
     </kbd>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
