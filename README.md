@@ -215,8 +215,8 @@ If you have any questions about web development, writing mistake-free documentat
 <div align=center>
   
 Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
-  <a href="https://www.linkedin.com/in/william-ga/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="https://www.linkedin.com/in/ingajumir/" target="blank" >
+  <a href="https://www.linkedin.com/in/william-ga/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 </div>
 
 
