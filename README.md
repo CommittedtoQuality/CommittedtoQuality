@@ -141,10 +141,13 @@
       <img src="./icons/WebStorm_Icon.svg" width="30px" height="48" alt="WebStorm" title="WebStorm" />
   </kbd>
      <kbd>
-      <kbd>Game Development</kbd>
+      <kbd>Operating Systems</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+      <img src="icons/Icon-Mac.png" width="48" height="48" alt="MacOS" title="MacOS" />
+      <img src="icons/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
+      <img src="./icons/manjaro.svg" width="48" height="48" alt="Manjaro" title="Manjaro" />
+      
     </kbd>
   </p>
 </div>
