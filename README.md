@@ -523,8 +523,6 @@ I am a Full Stack Software Development Engineer in Test with over 5 years of exp
 
   
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CommittedtoQuality&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
 <!--
 **CommittedtoQuality/CommittedtoQuality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
