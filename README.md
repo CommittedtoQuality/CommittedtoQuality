@@ -138,7 +138,7 @@
       <kbd>Test Automation</kbd>
       <br>
       <br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30px" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30px"/>
       <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
     </kbd>
     <kbd>
@@ -169,10 +169,9 @@
       <kbd>Operating Systems</kbd>
       <br>
       <br>
-      <img src="icons/Icon-Mac.png" width="48" height="48" alt="MacOS" title="MacOS" />
-      <img src="icons/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
-      <img src="./icons/manjaro.svg" width="48" height="48" alt="Manjaro" title="Manjaro" />
-      <img src="./icons/icons8-windows-10-480.svg" width="48" height="48" alt="Windows" title="Windows" />
+      <img src="icons/Icon-Mac.png" width="30px" alt="MacOS" title="MacOS" />
+      <img src="icons/android-plain.svg" width="30px" alt="Android" title="Android" />
+      <img src="./icons/icons8-windows-10-480.svg" width="30px" alt="Windows" title="Windows" />
       
     </kbd>
   </p>
