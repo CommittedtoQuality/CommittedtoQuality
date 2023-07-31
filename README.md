@@ -166,6 +166,7 @@
   <br>
   <blockquote>
      "Never allow the same bug to bite you twice." <br><strong>Steve Maguire </strong>
+     <br>“Quality is not act. It is a habit.” <br><strong>~Aristotle</strong>
   </blockquote>
 </details>
 
