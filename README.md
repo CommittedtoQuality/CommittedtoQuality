@@ -166,6 +166,7 @@
   <br>
   One of my favourite quotes
   <blockquote>
+     "Never allow the same bug to bite you twice." <br><strong>Steve Maguire </strong>
     “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
     <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
   </blockquote>
