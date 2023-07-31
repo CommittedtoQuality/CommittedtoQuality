@@ -267,9 +267,6 @@ If you have any questions about web development, writing mistake-free documentat
 <!-- About section -->
 I am a Full Stack Software Development Engineer in Test with over 5 years of experience in in manual and automated testing methodologies and tools. nsuring all development tasks meet quality criteria through test planning, test execution, quality assurance, and issue tracking. Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. 
 
-## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
-<a href="https://www.linkedin.com/in/ingajumir/" target="blank" >
-  
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
