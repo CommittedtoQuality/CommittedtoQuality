@@ -138,6 +138,7 @@
       <kbd>Test Automation</kbd>
       <br>
       <br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30px" height="50"/>
       <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
     </kbd>
     <kbd>
