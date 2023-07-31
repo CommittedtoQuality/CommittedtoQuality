@@ -139,7 +139,7 @@
       <br>
       <br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30px"/>
-      <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+       <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="50" height="50"/>
     </kbd>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
@@ -171,8 +171,7 @@
       <br>
       <img src="icons/Icon-Mac.png" width="30px" alt="MacOS" title="MacOS" />
       <img src="icons/android-plain.svg" width="30px" alt="Android" title="Android" />
-      <img src="./icons/icons8-windows-10-480.svg" width="30px" alt="Windows" title="Windows" />
-      
+      <img src="./icons/icons8-windows-10-480.svg" width="30px" alt="Windows" title="Windows"/>
     </kbd>
   </p>
 </div>
