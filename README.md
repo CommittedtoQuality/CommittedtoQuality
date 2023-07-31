@@ -87,7 +87,7 @@
       <kbd>Mobile</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
@@ -131,16 +131,14 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     </kbd>
     <kbd>
-      <kbd>Tools</kbd>
+      <kbd>IDE & Text Editors</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+      <img src="./icons/vim-original.svg" width="48" height="48" alt="Vim" title="Vim"/>
+      <img src="./icons/WebStorm_Icon.svg" width="48" height="48" alt="WebStorm" title="WebStorm" />
   </kbd>
      <kbd>
       <kbd>Game Development</kbd>
