@@ -78,14 +78,15 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
       <img src="./icons/sql.png" width="30px" alt="Vim" title="Vim" />
       <img src="./icons/GraphQL_Logo.svg" width="30px" alt="Vim" title="Vim" />
+      <img src="./icons/sql.png" width="30px" alt="Vim" title="Vim" />
+      <img src="./icons/XML.png" width="30px" alt="Vim" title="Vim" />
+       <img src="./icons/JSON.svg" width="30px" alt="Vim" title="Vim" />
     </kbd>
      <kbd>
       <kbd>Mobile</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
