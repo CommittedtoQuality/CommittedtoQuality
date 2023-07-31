@@ -108,13 +108,11 @@
     <br>
     <br>
     <kbd>
-      <kbd>Data Science & AI</kbd>
+      <kbd>Test Automation</kbd>
       <br>
       <br>
       <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+      
     </kbd>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
