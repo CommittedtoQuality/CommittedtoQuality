@@ -162,9 +162,8 @@
 </details>
 
 <details>
-  <summary>Quote</summary>
+  <summary>Quotes</summary>
   <br>
-  One of my favourite quotes
   <blockquote>
      "Never allow the same bug to bite you twice." <br><strong>Steve Maguire </strong>
     “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
@@ -271,7 +270,7 @@ I am a Full Stack Software Development Engineer in Test with over 5 years of exp
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Quality Engineering Projects:  "Never allow the same bug to bite you twice." </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Quality Engineering Projects:</h2>
 
 - <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Test Automation with Cypress Portfolio Project </b>
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
