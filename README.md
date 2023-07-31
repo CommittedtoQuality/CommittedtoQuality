@@ -138,7 +138,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img src="./icons/WebStorm_Icon.svg" width="30px" height="48" alt="WebStorm" title="WebStorm" />
+      <img src="./icons/WebStorm_Icon.svg" width="30px" alt="WebStorm" title="WebStorm" />
   </kbd>
      <kbd>
       <kbd>Operating Systems</kbd>
@@ -147,6 +147,7 @@
       <img src="icons/Icon-Mac.png" width="48" height="48" alt="MacOS" title="MacOS" />
       <img src="icons/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
       <img src="./icons/manjaro.svg" width="48" height="48" alt="Manjaro" title="Manjaro" />
+      <img src="./icons/icons8-windows-10-480.svg" width="48" height="48" alt="Windows" title="Windows" />
       
     </kbd>
   </p>
