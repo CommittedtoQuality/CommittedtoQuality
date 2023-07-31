@@ -142,12 +142,10 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="50" height="50"/>
     </kbd>
     <kbd>
-      <kbd>System, Networking & Deployment</kbd>
+      <kbd>Test Management</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+        <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30px"/>
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
