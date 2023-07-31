@@ -44,19 +44,14 @@
 /**
  * Represents me.
  * @constructor
- * @param {string} city - Paris, France.
- * @param {string} languagues - English, French.
- * @param {string} jobTitle - Full Stack Developer.
- * @param {string} specialization - Building full-fledged web applications.
- * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BSc CompSci, Lancaster University.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- * @param {Date} birthday - 14th of December 2000.
+ * @param {string} city - Los Angeles, CA.
+ * @param {string} languagues - English, Ukrainian, Russian, Spanish.
+ * @param {string} jobTitle - Full Stack Software Development Engineer in Test.
+ * @param {string} specialization - Manual and automated testing.
+ * @param {string} interests - Web3, crypto & AI.
+ * @param {string} hobbies - Reading, hiking & cooking.
+ * @param {string} education - MBA, University of La Verne.
  * @throws {Punch} To any and all bugs.
- * @returns {Object} Austinae.
  */
 ```
 
