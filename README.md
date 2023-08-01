@@ -161,83 +161,6 @@
 
 <details>
 <summary>Portfolio Projects:</summary>
-
-<table style="border: thick double #32a1ce">
-  <tr>
-  <td width="50%" valign="top">
-<br>Portfolio Project #1
-    </td>
- <td width="50%" valign="top">
- <a href="https://www.javascript.com/">
-        <img src="./icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td width="50%" valign="top">
-    <a href="#https://www.apple.com/macos">
-        <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
-      </a>
-      <br>Cypress
-    </td>
-    <td width="50%" valign="top"> - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
-    </td>
-  </tr>
-   <tr>
-     <td width="50%" valign="top">
-<br>Portfolio Project #1
-    </td>
-    <td width="50%" valign="top">
-    <a href="https://www.python.org/" >
-        <img src="./icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td width="50%" valign="top">
-     <a href="https://www.javascript.com/">
-        <img src="./icons/selenium_automation.png" title="Selenium" **alt="Selenium" " width="48" height="48" alt="Selenium" title="Selenium" />
-      </a>
-      <br>Selenium
-    </td>
-    <td width="50%" valign="top"> - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Selenium Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-    
-
-
-  
-  
-<table style="border: thick double #32a1ce">
-  <tr>
-  <td width="50%" valign="top">
-
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Automation (Cypress/JS) </b>
-
-  - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
-
-  </td>
-  <td width="50%" valign="top">
-
-## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Automation (Selenium/Python)</b>
-  - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation_Selenium)</i> 
-
-  </td>
-  </tr>
-</table>
-
-
 <table>
   <tr>
     <td align="center" Align Middle width="69">
@@ -282,20 +205,7 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
 </details>
-
 </details>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
