@@ -199,7 +199,7 @@
       </a>
       <br>Cypress
     </td>
-    <td align="center" width="170">
+    <td align="center" width="480">
       <a href="https://www.android.com/">
         <img src="icons/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
       </a>
@@ -220,7 +220,7 @@
       <a href="https://www.javascript.com/">
         <img src="./icons/selenium_automation.png" title="Selenium" **alt="Selenium" " width="48" height="48" alt="Selenium" title="Selenium" />
       </a>
-      <br>JavaScript
+      <br>Selenium
     </td>
     <td align="center"  width="96">
       <a href="https://www.perl.org/">
