@@ -172,7 +172,7 @@
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
 
   </td>
-  <td width="50%" valign="top">
+  <td width="60%" valign="top">
 
 ## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="53">Automation (Selenium/Python)</b>
   - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation_Selenium)</i> 
