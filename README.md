@@ -161,8 +161,8 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
       <img src="./icons/WebStorm_Icon.svg" width="30px" alt="WebStorm" title="WebStorm" />
+      <img src="./icons/PyCharm_Icon.svg" width="30px"alt="PyCharm" title="PyCharm" />
   </kbd>
      <kbd>
       <kbd>Operating Systems</kbd>
