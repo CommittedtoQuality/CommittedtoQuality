@@ -42,6 +42,29 @@
  * @throws {Punch} To any and all bugs.
  */
 ```
+ 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Lana'
+		jobTitle = 'Writing code'
+		hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Vancouver_Canada()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 </div>
 
 </details>
