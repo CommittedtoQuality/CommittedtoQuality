@@ -185,7 +185,7 @@
 
 [//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
-## Let's Work on Your Project Together!
+## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Test Automation with Cypress Portfolio Project </b>
 
 If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:guerrandw@gmail.com">contact me by email</a>, I won't bite, I promise.
 
