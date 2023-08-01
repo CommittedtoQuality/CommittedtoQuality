@@ -47,22 +47,13 @@
  class WhoAmI:
  	user = 'Lana'
 		jobTitle = 'Full Stack Software Development Engineer in Test'
-                hobbies = ['Reading', 'Hiking','Cooking']
-                languages = ['English','Ukrainian','Russian','Spanish']
-			]
-			  ]
+ 
 		hobbies = [
 				'Reading',
 				'Hiking',
 				'Cooking'
 			  ]
-                languages = [
-				'English',
-				'Ukrainian',
-				'Russian',
-                                'Spanish'
-			]
-	
+              
 	def getCity():
 		return LosAngeles_CA()
 
