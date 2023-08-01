@@ -41,30 +41,22 @@
  * @param {string} education - MBA, University of La Verne.
  * @throws {Punch} To any and all bugs.
  */
-```
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Lana'
-		jobTitle = 'Full Stack Software Development Engineer in Test'
- 
-		hobbies = [
-				'Reading',
-				'Hiking',
-				'Cooking'
-			  ]
-              
-	def getCity():
-		return LosAngeles_CA()
+class WhoAmI:
+	user = 'Lana'
+   	job_title = 'Full Stack Software Development Engineer in Test'
+   	hobbies = [
+   			'Reading',
+   			'Hiking',
+   			'Cooking'
+   		]
+   
+   def getCity():
+   	return LosAngeles_CA()
+   
+   def Ambitions():
+   	LearnJapanese()
 
-        def getEducation():
-		return MBA_ULV()
-	
-	def Ambitions():
-		LearnJapanese()
-		
-	
- ```
+
 </div>
 
 </details>
