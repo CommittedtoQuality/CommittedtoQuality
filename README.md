@@ -47,10 +47,9 @@
  class WhoAmI:
  	user = 'Lana'
 		jobTitle = 'Full Stack Software Development Engineer in Test'
-                hobbies = [
-				'Reading',
-				'Hiking',
-				'Cooking'
+                hobbies = ['Reading', 'Hiking','Cooking']
+                languages = ['English','Ukrainian','Russian','Spanish']
+			]
 			  ]
 		hobbies = [
 				'Reading',
