@@ -167,16 +167,14 @@
 
 [//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
-## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Test Automation (Cypress/JS) </b>
+## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Automation (Cypress/JS) </b>
 
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
 
   </td>
   <td width="50%" valign="top">
 
-## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Test Automation (Selenium/Python)</b>
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Automation (Selenium/Python)</b>
   - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i> 
 
   </td>
