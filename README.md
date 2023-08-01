@@ -184,7 +184,7 @@
 
 <table>
   <tr>
-    <td align="center" Align Middle width="89">
+    <td align="center" Align Middle width="69">
        <br>Portfolio Project #1
     </td>
      <td align="center"  width="96">
@@ -199,13 +199,13 @@
       </a>
       <br>Cypress
     </td>
-    <td align="start" width="689">
+    <td align="start" width="489">
         
   - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="center" width="100"> 
+    <td align="center" valign="center" width="69"> 
       <br> Portfolio Project #2
     </td>
     <td align="center" width="96">
