@@ -92,7 +92,6 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
        <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="30px"/>&nbsp;
     </kbd>
-  
     <kbd>
       <kbd>Database</kbd>
       <br>
