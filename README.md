@@ -47,22 +47,19 @@
  ```python
  class WhoAmI:
  	user = 'Lana'
-		jobTitle = 'Writing code'
+		jobTitle = 'Full Stack Software Development Engineer in Test'
 		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
+				'Reading',
+				'Cooking',
+				'Hiking'
+				'Running'
 			]
 	
 	def getCity():
-		return Vancouver_Canada()
+		return LosAngeles_CA()
 	
 	def Ambitions():
 		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
 	
  ```
 </div>
