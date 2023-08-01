@@ -187,11 +187,11 @@
     <td align="center" Align Middle width="96">
        <br>Operating systems
     </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/">
-        <img src="icons/linux-original.svg" width="48" height="48" alt="Linux" title="Linux" />
+     <td align="center"  width="96">
+      <a href="https://www.javascript.com/">
+        <img src="./icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
       </a>
-      <br>Linux
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#https://www.apple.com/macos">
