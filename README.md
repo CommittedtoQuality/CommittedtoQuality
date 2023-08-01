@@ -197,37 +197,13 @@
       <a href="#https://www.apple.com/macos">
         <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
       </a>
-      <br>MacOS
+      <br>Cypress
     </td>
-    <td align="center" width="96">
+    <td align="center" width="170">
       <a href="https://www.android.com/">
         <img src="icons/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
       </a>
-      <br>Android
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.microsoft.com/en-us/windows/">
-        <img src="./icons/icons8-windows-10-480.svg" width="48" height="48" alt="Windows" title="Windows" />
-      </a>
-      <br>Windows
-    </td>
-    <td align="center" width="96">
-      <a href="https://manjaro.org/">
-        <img src="./icons/manjaro.svg" width="48" height="48" alt="Manjaro" title="Manjaro" />
-      </a>
-      <br>Manjaro
-    </td>
-    <td align="center" width="96">
-      <a href="https://ubuntu.com/">
-        <img src="./icons/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" title="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.debian.org/">
-        <img src="./icons/debian-original.svg" width="48" height="48" alt="Debian" title="Debian" />
-      </a>
-      <br>Debian
+      <br>Link
     </td>
   </tr>
   <tr>
