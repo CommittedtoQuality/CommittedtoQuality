@@ -129,7 +129,7 @@
       <br>
       <br>
         <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30px"/>
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fspeechify.com%2Fproduct-reviews%2Fshortcut%2F&psig=AOvVaw3AiUT-Ca2edelBmyuwWgBR&ust=1690935439816000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIj9vMOXuoADFQAAAAAdAAAAABAb" title="Shortcut" alt="Shortcut" width="30px"/> 
+        <img src="./icons/Shortcut.png" width="30px"  alt="Shortcut" title="Shortcut" />
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
