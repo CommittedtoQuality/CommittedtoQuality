@@ -31,7 +31,7 @@
  ```python
  class WhoAmI:
  	user = 'Lana'
-		jobTitle = 'Full Stack Software Development Engineer in Test'
+		jobTitle = 'Test Automation Engineer'
 		specialization = [
 				'Manual Testing',
 				'Automated Testing',
