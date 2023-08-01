@@ -55,12 +55,9 @@ class WhoAmI:
    
    def Ambitions():
    	LearnJapanese()
-
-
 </div>
 
 </details>
-
 <details>
 <summary>Tools</summary>
 <div>
