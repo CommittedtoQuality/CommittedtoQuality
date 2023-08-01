@@ -179,8 +179,7 @@
       </a>
       <br>Cypress
     </td>
-    <td width="50%" valign="top">
-     - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
+    <td width="50%" valign="top"> - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
     </td>
   </tr>
    <tr>
@@ -199,8 +198,7 @@
       </a>
       <br>Selenium
     </td>
-    <td width="50%" valign="top">
-      - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Selenium Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
+    <td width="50%" valign="top"> - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Selenium Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
     </td>
   </tr>
 </table>
@@ -257,7 +255,7 @@
       </a>
       <br>Cypress
     </td>
-    <td align="start" width="489">
+    <td align="start" width="289">
         
   - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
     </td>
@@ -278,7 +276,7 @@
       </a>
       <br>Selenium
     </td>
-     <td align="start" width="689">
+     <td align="start" width="289">
        
   - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Selenium Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
     </td>
