@@ -195,7 +195,7 @@
     </td>
     <td align="center" width="96">
       <a href="#https://www.apple.com/macos">
-        <img src="icons/Icon-Mac.png" width="48" height="48" alt="MacOS" title="MacOS" />
+        <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
       </a>
       <br>MacOS
     </td>
@@ -242,7 +242,7 @@
     </td>
     <td align="center"  width="96">
       <a href="https://www.javascript.com/">
-        <img src="  <img src="./icons/selenium_automation.png" title="Selenium" **alt="Selenium" " width="48" height="48" alt="Selenium" title="Selenium" />
+        <img src="./icons/selenium_automation.png" title="Selenium" **alt="Selenium" " width="48" height="48" alt="Selenium" title="Selenium" />
       </a>
       <br>JavaScript
     </td>
