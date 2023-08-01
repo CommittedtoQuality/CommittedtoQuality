@@ -61,6 +61,9 @@
 	
 	def getCity():
 		return LosAngeles_CA()
+
+        def getEducation():
+		return MBA_ULV()
 	
 	def Ambitions():
 		LearnJapanese()
