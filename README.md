@@ -199,7 +199,7 @@
       </a>
       <br>Cypress
     </td>
-    <td align="center" width="1180">
+    <td align="start" width="1180">
         
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
     </td>
@@ -219,6 +219,10 @@
         <img src="./icons/selenium_automation.png" title="Selenium" **alt="Selenium" " width="48" height="48" alt="Selenium" title="Selenium" />
       </a>
       <br>Selenium
+    </td>
+     <td align="start" width="1180">
+        
+  - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
     </td>
   </tr>
 </table>
