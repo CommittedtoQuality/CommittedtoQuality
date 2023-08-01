@@ -120,6 +120,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="30px"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="30px"/>
+        <img src="    
+      https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fcypress-icon-512x512-zi8589rq.png&tbnid=ThkOzyxsgjzvhM&vet=12ahUKEwjZl8-MmbqAAxW-lIQIHZ7pBWAQMygAegUIARDUAQ..i&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F635%2Fcypress&docid=kQVrQPXOtxq5kM&w=512&h=512&q=cypress%20icon&ved=2ahUKEwjZl8-MmbqAAxW-lIQIHZ7pBWAQMygAegUIARDUAQ" title="Selenium" **alt="Selenium" width="30px"/>
         <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Postman" alt="Postman" width="30px"/> 
        <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="30px"/>&nbsp;
     </kbd>
