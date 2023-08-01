@@ -45,17 +45,16 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
-		current_work = 'Writing code'
+ 	user = 'Lana'
+		jobTitle = 'Writing code'
 		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
+				'Reading',
+				'Hiking',
+				'Cooking'
 			]
 	
 	def getCity():
-		return Vancouver_Canada()
+		return LosAngeles_CA()
 	
 	def Ambitions():
 		LearnJapanese()
