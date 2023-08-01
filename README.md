@@ -41,20 +41,7 @@
  * @param {string} education - MBA, University of La Verne.
  * @throws {Punch} To any and all bugs.
  */
-class WhoAmI:
-	user = 'Lana'
-   	job_title = 'Full Stack Software Development Engineer in Test'
-   	hobbies = [
-   			'Reading',
-   			'Hiking',
-   			'Cooking'
-   		]
-   
-   def getCity():
-   	return LosAngeles_CA()
-   
-   def Ambitions():
-   	LearnJapanese()
+
 </div>
 
 </details>
