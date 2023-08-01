@@ -161,7 +161,7 @@
 
 <details>
 <summary>Portfolio Projects:</summary>
-<table style="border: none">
+<table style="border: thick double #32a1ce">
   <tr>
   <td width="50%" valign="top">
 
@@ -174,8 +174,8 @@
   </td>
   <td width="50%" valign="top">
 
-## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Automation (Selenium/Python)</b>
-  - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i> 
+## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="53">Automation (Selenium/Python)</b>
+  - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation_Selenium)</i> 
 
   </td>
   </tr>
