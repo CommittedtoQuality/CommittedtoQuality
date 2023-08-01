@@ -28,21 +28,6 @@
 
 <div align="left">
 
-```js
-/**
- * Represents me.
- * @constructor
- * @param {string} city - Los Angeles, CA.
- * @param {string} languagues - English, Ukrainian, Russian, Spanish.
- * @param {string} jobTitle - Full Stack Software Development Engineer in Test.
- * @param {string} specialization - Manual and automated testing.
- * @param {string} interests - Web3, crypto & AI.
- * @param {string} hobbies - Reading, hiking & cooking.
- * @param {string} education - MBA, University of La Verne.
- * @throws {Punch} To any and all bugs.
- */
-```
-
  ```python
  class WhoAmI:
  	user = 'Lana'
