@@ -195,9 +195,7 @@
 ## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Test Automation (Selenium/Python)</b>
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
+  - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i> 
 
   </td>
   </tr>
