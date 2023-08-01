@@ -42,8 +42,7 @@
  * @throws {Punch} To any and all bugs.
  */
 ```
- 
- ## Who am I?
+
  ```python
  class WhoAmI:
  	user = 'Lana'
@@ -57,7 +56,7 @@
 	
 	def getCity():
 		return LosAngeles_CA()
-	
+ 
 	def Ambitions():
 		LearnJapanese()
 	
