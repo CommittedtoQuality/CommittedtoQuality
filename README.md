@@ -62,14 +62,12 @@
 	def getCity():
 		return LosAngeles_CA()
 
-        def getEducation():
+ def getEducation():
 		return MBA_ULV()
 	
 	def Ambitions():
 		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
+		
 	
  ```
 </div>
