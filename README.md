@@ -200,10 +200,8 @@
       <br>Cypress
     </td>
     <td align="center" width="1180">
-      <a href="https://www.android.com/">
-        <img src="icons/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
-      </a>
-      <br>Link
+        
+  - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
     </td>
   </tr>
   <tr>
