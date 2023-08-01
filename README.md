@@ -161,6 +161,64 @@
 
 <details>
 <summary>Portfolio Projects:</summary>
+
+<table style="border: thick double #32a1ce">
+  <tr>
+  <td width="50%" valign="top">
+<br>Portfolio Project #1
+    </td>
+ <td width="50%" valign="top">
+ <a href="https://www.javascript.com/">
+        <img src="./icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td width="50%" valign="top">
+    <a href="#https://www.apple.com/macos">
+        <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
+      </a>
+      <br>Cypress
+    </td>
+    <td width="50%" valign="top">
+     - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
+    </td>
+  </tr>
+   <tr>
+     <td width="50%" valign="top">
+<br>Portfolio Project #1
+    </td>
+    <td width="50%" valign="top">
+    <a href="https://www.python.org/" >
+        <img src="./icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td width="50%" valign="top">
+     <a href="https://www.javascript.com/">
+        <img src="./icons/selenium_automation.png" title="Selenium" **alt="Selenium" " width="48" height="48" alt="Selenium" title="Selenium" />
+      </a>
+      <br>Selenium
+    </td>
+    <td width="50%" valign="top">
+      - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Selenium Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+    
+
+
+  
+  
 <table style="border: thick double #32a1ce">
   <tr>
   <td width="50%" valign="top">
