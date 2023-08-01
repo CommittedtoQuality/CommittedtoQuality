@@ -185,7 +185,7 @@
 <table>
   <tr>
     <td align="center" Align Middle width="96">
-       <br><b>Portfolio Project #1</b>
+       <br>Portfolio Project #1
     </td>
      <td align="center"  width="96">
       <a href="https://www.javascript.com/">
@@ -199,7 +199,7 @@
       </a>
       <br>Cypress
     </td>
-    <td align="center" width="780">
+    <td align="center" width="1180">
       <a href="https://www.android.com/">
         <img src="icons/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
       </a>
@@ -208,7 +208,7 @@
   </tr>
   <tr>
     <td align="center" valign="center" width="100"> 
-      <br<b>Portfolio Project #2</b>
+      <br> Portfolio Project #2
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/" >
@@ -221,36 +221,6 @@
         <img src="./icons/selenium_automation.png" title="Selenium" **alt="Selenium" " width="48" height="48" alt="Selenium" title="Selenium" />
       </a>
       <br>Selenium
-    </td>
-    <td align="center"  width="96">
-      <a href="https://www.perl.org/">
-        <img src="./icons/perl-original.svg" width="48" height="48" alt="Perl" title="Perl" />
-      </a>
-      <br>Perl
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.gnu.org/software/bash/manual/">
-        <img src="./icons/nodejs-original.svg" width="48" height="48" alt="NodeJS" title="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center"  width="96">
-      <a href="https://www.gnu.org/software/bash/manual">
-        <img src="./icons/Bash_Logo_Colored.svg" width="48" height="48" alt="Bash" title="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.rust-lang.org/" >
-        <img src="./icons/rust-logo-128x128.png" width="48" height="48" alt="Rust" title="Rust" />
-      </a>
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com/" >
-        <img src="./icons/java-original.svg" width="48" height="48" alt="Java" title="Java" />
-      </a>
-      <br>Java
     </td>
   </tr>
 </table>
