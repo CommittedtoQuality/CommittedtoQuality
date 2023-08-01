@@ -37,7 +37,7 @@
 				'Automated Testing',
 				'User Acceptance Testing',
 				'Test Planning'
-			]
+			         ]
 	
 	def getCity():
 		return LosAngeles_CA()
