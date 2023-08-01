@@ -172,14 +172,124 @@
   - [Cypress Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
 
   </td>
-  <td width="60%" valign="top">
+  <td width="50%" valign="top">
 
-## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="53">Automation (Selenium/Python)</b>
+## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Automation (Selenium/Python)</b>
   - [Selenium (Python) Test Framework](https://github.com/CommittedtoQuality/Automation_Selenium)</i> 
 
   </td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td align="center" Align Middle width="96">
+       <br>Operating systems
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/">
+        <img src="icons/linux-original.svg" width="48" height="48" alt="Linux" title="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#https://www.apple.com/macos">
+        <img src="icons/Icon-Mac.png" width="48" height="48" alt="MacOS" title="MacOS" />
+      </a>
+      <br>MacOS
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.android.com/">
+        <img src="icons/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-us/windows/">
+        <img src="./icons/icons8-windows-10-480.svg" width="48" height="48" alt="Windows" title="Windows" />
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <a href="https://manjaro.org/">
+        <img src="./icons/manjaro.svg" width="48" height="48" alt="Manjaro" title="Manjaro" />
+      </a>
+      <br>Manjaro
+    </td>
+    <td align="center" width="96">
+      <a href="https://ubuntu.com/">
+        <img src="./icons/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" title="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.debian.org/">
+        <img src="./icons/debian-original.svg" width="48" height="48" alt="Debian" title="Debian" />
+      </a>
+      <br>Debian
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="center" width="100"> 
+      <br>Programming languages
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/" >
+        <img src="./icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.javascript.com/">
+        <img src="./icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.perl.org/">
+        <img src="./icons/perl-original.svg" width="48" height="48" alt="Perl" title="Perl" />
+      </a>
+      <br>Perl
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.gnu.org/software/bash/manual/">
+        <img src="./icons/nodejs-original.svg" width="48" height="48" alt="NodeJS" title="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.gnu.org/software/bash/manual">
+        <img src="./icons/Bash_Logo_Colored.svg" width="48" height="48" alt="Bash" title="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.rust-lang.org/" >
+        <img src="./icons/rust-logo-128x128.png" width="48" height="48" alt="Rust" title="Rust" />
+      </a>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com/" >
+        <img src="./icons/java-original.svg" width="48" height="48" alt="Java" title="Java" />
+      </a>
+      <br>Java
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
 
 </details>
