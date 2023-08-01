@@ -51,7 +51,7 @@
 				'Reading',
 				'Hiking',
 				'Cooking'
-			]
+			  ]
                 languages = [
 				'English',
 				'Ukrainian',
