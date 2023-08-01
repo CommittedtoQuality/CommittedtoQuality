@@ -185,7 +185,7 @@
 <table>
   <tr>
     <td align="center" Align Middle width="96">
-       <br>Operating systems
+       <br>Portfolio Project #1
     </td>
      <td align="center"  width="96">
       <a href="https://www.javascript.com/">
@@ -208,7 +208,7 @@
   </tr>
   <tr>
     <td align="center" valign="center" width="100"> 
-      <br>Programming languages
+      <br>Portfolio Project #2
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/" >
