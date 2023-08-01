@@ -47,11 +47,11 @@
  class WhoAmI:
  	user = 'Lana'
 		jobTitle = 'Full Stack Software Development Engineer in Test'
-		hobbies = [
-				'Reading',
-				'Cooking',
-				'Hiking'
-				'Running'
+		specialization = [
+				'Manual Testing',
+				'Automated Testing',
+				'User Acceptance Testing',
+				'Test Planning'
 			]
 	
 	def getCity():
