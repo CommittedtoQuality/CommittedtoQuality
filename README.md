@@ -178,7 +178,7 @@
 </details>
 
 <details>
-<summary>Quality Engineering Projects:</summary>
+<summary>Portfolio Projects:</summary>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
@@ -192,7 +192,7 @@ If you have any questions about web development, writing mistake-free documentat
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## <b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Test Automation with Selenium + Python Portfolio Project</b>
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
