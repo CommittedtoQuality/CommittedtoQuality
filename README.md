@@ -41,7 +41,7 @@
  * @param {string} education - MBA, University of La Verne.
  * @throws {Punch} To any and all bugs.
  */
-
+```
 </div>
 
 </details>
