@@ -80,7 +80,7 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="30px"/>&nbsp;
     </kbd>
     <kbd>
-      <kbd>Database</kbd>
+      <kbd><em>Database</em></kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
@@ -91,7 +91,7 @@
     <br>
     <br>
     <kbd>
-      <kbd>Test Automation</kbd>
+      <kbd><em>Test Automation</em></kbd>
       <br>
       <br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30px"/>
@@ -102,21 +102,21 @@
        <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="30px"/>&nbsp;
     </kbd>
     <kbd>
-      <kbd>Test Management</kbd>
+      <kbd><em>Test Management</em></kbd>
       <br>
       <br>
         <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30px"/>
         <img src="./icons/Shortcut.png" width="30px"  alt="Shortcut" title="Shortcut" />
     </kbd>
     <kbd>
-      <kbd>Terminal Scripts</kbd>
+      <kbd><em>Terminal Scripts</em></kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     </kbd>
     <kbd>
-      <kbd>IDE & Text Editors</kbd>
+      <kbd><em>IDE & Text Editors</em></kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -125,7 +125,7 @@
       <img src="./icons/PyCharm_Icon.svg" width="30px"alt="PyCharm" title="PyCharm" />
   </kbd>
      <kbd>
-      <kbd>Operating Systems</kbd>
+      <kbd><em>Operating Systems</em></kbd>
       <br>
       <br>
       <img src="icons/Icon-Mac.png" width="30px" alt="MacOS" title="MacOS" />
