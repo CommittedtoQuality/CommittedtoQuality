@@ -50,7 +50,7 @@
 
 </details>
 <details>
-<summary><b>Tools</b></summary>
+<summary>Tools</summary>
 <div>
    <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=28&duration=1800&pause=3000&color=0c0062&background=6ECF4200&center=true&vCenter=true&multiline=true&width=600&height=53&lines=🛠+Technologies+and+tools+I'm+working+with:" alt="Typing SVG" /></a> 
   <p style="display: inline-block;" align="center">
@@ -137,7 +137,7 @@
 </details>
 
 <details>
-  <summary><b>Quotes</b></summary>
+  <summary>Quotes</summary>
   <br>
   <blockquote>
      <em>"Never allow the same bug to bite you twice."</em><br><strong>~Steve Maguire </strong>
@@ -147,7 +147,7 @@
 </details>
 
 <details>
-<summary><b>Portfolio Projects:</b></summary>
+<summary>Portfolio Projects:</summary>
 <table>
   <tr>
     <td align="center" Align Middle width="69">
