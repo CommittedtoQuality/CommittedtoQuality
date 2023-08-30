@@ -157,13 +157,13 @@
       <a href="https://www.javascript.com/">
         <img src="./icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
       </a>
-      <br>JavaScript
+      <br><b>JavaScript</b>
     </td>
     <td align="center" width="96">
       <a href="#https://www.apple.com/macos">
         <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
       </a>
-      <br>Cypress
+      <br><b>Cypress</b>
     </td>
     <td align="start" width="289">
         
