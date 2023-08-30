@@ -137,7 +137,7 @@
 </details>
 
 <details>
-  <summary>Quotes</summary>
+  <summary><b>Quotes</b></summary>
   <br>
   <blockquote>
      <em>"Never allow the same bug to bite you twice."</em><br><strong>~Steve Maguire </strong>
@@ -147,7 +147,7 @@
 </details>
 
 <details>
-<summary>Portfolio Projects:</summary>
+<summary><b>Portfolio Projects:</b></summary>
 <table>
   <tr>
     <td align="center" Align Middle width="69">
