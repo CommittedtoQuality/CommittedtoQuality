@@ -184,7 +184,7 @@
       <a href="https://www.javascript.com/">
         <img src="./icons/selenium_automation.png" title="Selenium" **alt="Selenium" " width="48" height="48" alt="Selenium" title="Selenium" />
       </a>
-      <br>Selenium
+      <br><b>Selenium</b>
     </td>
      <td align="start" width="289">
        
