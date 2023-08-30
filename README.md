@@ -62,7 +62,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     </kbd>
     <kbd>
-      <kbd>Markdown & Query languages</kbd>
+      <kbd><em>Markdown & Query languages</em></kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -73,7 +73,7 @@
        <img src="./icons/JSON.svg" width="30px" alt="Vim" title="Vim" />
     </kbd>
      <kbd>
-      <kbd>Mobile</kbd>
+      <kbd><em>Mobile</em></kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
