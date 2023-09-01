@@ -140,7 +140,7 @@
   <summary>Quotes</summary>
   <br>
   <blockquote>
-     <em>"Never allow the same bug to bite you twice."</em><br><strong>~Steve Maguire </strong>
+     <font size = 4 ><em>"Never allow the same bug to bite you twice."</em></font><br><strong>~Steve Maguire </strong>
      <br><em>“Quality is not an act. It is a habit.”</em> <br><strong>~Aristotle</strong>
      <br><em>“Give them quality. That’s the best kind of advertising.”</em> <br><strong>~Milton Hersey</strong>
   </blockquote>
