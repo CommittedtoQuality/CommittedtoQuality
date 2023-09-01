@@ -12,7 +12,7 @@
 <div>
   <div align=center>
       
-<p align="left">
+<p align="center">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
  <p/>
   </div>
@@ -26,7 +26,7 @@
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
-<div align="center">
+<div align="left">
 
  ```python
  class WhoAmI:
