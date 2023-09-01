@@ -157,7 +157,7 @@
       <a href="https://www.javascript.com/">
         <img src="./icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
       </a>
-      <br><b>JavaScript</b>
+      <br><em><b>JavaScript</b></em>
     </td>
     <td align="center" width="96">
       <a href="#https://www.apple.com/macos">
@@ -184,7 +184,7 @@
       <a href="https://www.javascript.com/">
         <img src="./icons/selenium_automation.png" title="Selenium" **alt="Selenium" " width="48" height="48" alt="Selenium" title="Selenium" />
       </a>
-      <br><b>Selenium</b>
+      <br><em><b>Selenium</b></em>
     </td>
      <td align="start" width="289">
        
