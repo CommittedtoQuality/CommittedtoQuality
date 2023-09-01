@@ -163,7 +163,7 @@
       <a href="#https://www.apple.com/macos">
         <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
       </a>
-      <br><b>Cypress</b>
+      <br><em><<b>Cypress</b></em>
     </td>
     <td align="start" width="289">
         
