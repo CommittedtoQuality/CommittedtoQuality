@@ -163,7 +163,7 @@
       <a href="#https://www.apple.com/macos">
         <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
       </a>
-      <br><em><<b>Cypress</b></em>
+      <br><em><b>Cypress</b></em>
     </td>
     <td align="start" width="289">
         
@@ -178,7 +178,7 @@
       <a href="https://www.python.org/" >
         <img src="./icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
       </a>
-      <br><b>Python</b>
+      <br><em><b>Python</b></em>
     </td>
     <td align="center"  width="96">
       <a href="https://www.javascript.com/">
