@@ -12,7 +12,7 @@
 <div>
   <div align=center>
       
-<p align="center">
+<p align="left">
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
  <p/>
   </div>
