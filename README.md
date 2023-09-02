@@ -193,11 +193,11 @@
   </tr>
 </table>
 <br>
-<ol align = "center">
+<ul align = "center">
 	<li> Test </li>
 	<li> Test </li>
 	<li> Test </li>
-</ol>
+</ul>
 </details>
 </details>
 
