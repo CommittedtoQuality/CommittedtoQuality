@@ -192,7 +192,8 @@
     </td>
   </tr>
 </table>
-<ol>
+<br>
+<ol align = "left">
 	<li> Test </li>
 	<li> Test </li>
 	<li> Test </li>
