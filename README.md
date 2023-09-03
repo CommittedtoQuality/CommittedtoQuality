@@ -192,10 +192,6 @@
     </td>
   </tr>
 </table>
-<br>
-<p> Test </p>
-<p> Test </p>
-<p> Test </p>
 </details>
 </details>
 
