@@ -215,7 +215,7 @@
    </td>
     <td align="center" width="96">
       <a href="#https://www.cypress.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+        <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="48" height="48" alt="MySQL" title="Postman"/>
       </a>
       <br><em><b>MySQL</b></em>
     </td>
