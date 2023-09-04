@@ -224,7 +224,11 @@
         <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
       </a>
       <br><em><b>Cypress</b></em>
-    </td>  
+    </td>
+    <td align="start" width="289">
+        
+  - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Database Testing](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
+    </td>
   </tr>
 </table>
 </details>
