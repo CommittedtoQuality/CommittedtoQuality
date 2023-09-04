@@ -191,6 +191,11 @@
   - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Selenium Test Framework](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
     </td>
   </tr>
+  <tr>
+  <td align="center" valign="center" width="49"> 
+      <br>3.
+   </td>	  
+  </tr>
 </table>
 </details>
 </details>
