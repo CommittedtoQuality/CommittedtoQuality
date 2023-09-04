@@ -149,7 +149,7 @@
 <details>
 <summary>Portfolio Projects:</summary>
 <br>
-<table border = "5" color = "blue">
+<table border = "5">
   <tr>
     <td align="center" Align Middle width="49">
        <br>1.
