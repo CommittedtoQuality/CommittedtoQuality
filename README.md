@@ -194,11 +194,17 @@
   <tr>
   <td align="center" valign="center" width="49"> 
       <br>3.
-   </td>	  
+   </td>
+   <td align="center" width="96">
+      <a href="https://www.python.org/" >
+        <img src="./icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
+      </a>
+      <br><em><b>Python</b></em>
+  </td>
   </tr>
   <tr>
   <td align="center" valign="center" width="49"> 
-      <br>3.
+      <br>4.
    </td>  
   </tr>
 </table>
