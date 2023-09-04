@@ -212,7 +212,13 @@
   <tr>
   <td align="center" valign="center" width="49"> 
       <br>4.
-   </td>  
+   </td>
+    <td align="center" width="96">
+      <a href="#https://www.cypress.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+      </a>
+      <br><em><b>MySQL</b></em>
+    </td>
   </tr>
 </table>
 </details>
