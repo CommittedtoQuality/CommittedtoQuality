@@ -195,12 +195,12 @@
   <td align="center" valign="center" width="49"> 
       <br>3.
    </td>
-   <td align="center" width="96">
-      <a href="https://www.python.org/" >
-        <img src="./icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
+     <td align="center" width="96">
+      <a href="#https://www.cypress.io/">
+        <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
       </a>
-      <br><em><b>Python</b></em>
-  </td>
+      <br><em><b>Cypress</b></em>
+    </td>
   </tr>
   <tr>
   <td align="center" valign="center" width="49"> 
