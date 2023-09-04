@@ -151,6 +151,10 @@
 <br>
 <table border = "5">
 <caption style="color:red;"> TEST AUTOMATION SOLUTIONS </caption>
+<th> # </th>
+<th> Language <th>
+<th> Framework <th>
+<th> Description </th>
   <tr>
     <td align="center" Align Middle width="49">
        <br>1.
