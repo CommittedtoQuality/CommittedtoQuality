@@ -151,11 +151,7 @@
 <br>
 <table border = "5">
 <caption style="color:red;"> TEST AUTOMATION SOLUTIONS </caption>
-<tr>
-<th>#</th>
-<th> Language <th>
-<th> Tool  <th>
-</tr>
+<tr> <th>#</th> <th> Language </th> <th> Tool </th></tr>
 	
   <tr>
     <td align="center" Align Middle width="49">
