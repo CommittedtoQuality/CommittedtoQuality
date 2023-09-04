@@ -151,7 +151,7 @@
 <br>
 <table border = "5">
 <caption style="color:red;"> TEST AUTOMATION SOLUTIONS </caption>
-<th> # </th>
+<th>#</th>
 <th> Language <th>
 <th> Framework <th>
   <tr>
