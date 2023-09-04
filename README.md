@@ -209,9 +209,6 @@
     </td>
 	  
   </tr>
-   <td align="start" width="289">  
-  - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Database Testing](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
-    </td>
   <tr>
   <td align="center" valign="center" width="49"> 
       <br>4.
