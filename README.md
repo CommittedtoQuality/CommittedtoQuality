@@ -195,6 +195,12 @@
   <td align="center" valign="center" width="49"> 
       <br>3.
    </td>
+       <td align="center" width="96">
+      <a href="#https://www.cypress.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+      </a>
+      <br><em><b>MySQL</b></em>
+    </td>
      <td align="center" width="96">
       <a href="#https://www.cypress.io/">
         <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
