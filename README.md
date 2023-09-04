@@ -201,13 +201,17 @@
       </a>
       <br><em><b>MySQL</b></em>
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#https://www.cypress.io/">
         <img src="./icons/CypressIcon.png" width="48" height="48" alt="Cypress" title="Cypress" />
       </a>
       <br><em><b>Cypress</b></em>
     </td>
+	  
   </tr>
+   <td align="start" width="289">  
+  - <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">[Database Testing](https://github.com/CommittedtoQuality/Automation-Selenium-Python-Project/tree/main)</i>
+    </td>
   <tr>
   <td align="center" valign="center" width="49"> 
       <br>4.
