@@ -150,7 +150,8 @@
 <summary>Portfolio Projects:</summary>
 <br>
 <table border = "5">
-<caption style="color:red;"> TEST AUTOMATION SOLUTIONS </caption>
+
+<caption> <h3>$${\color{red}TEST-AUTOMATION-SOLUTIONS}$$</h3></caption>
 <tr> <th>#</th> <th> Language </th> <th> Tool </th><th>Description</th></tr>
 	
   <tr>
