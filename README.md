@@ -36,7 +36,10 @@
 				'Manual Testing',
 				'Automated Testing',
 				'User Acceptance Testing',
-				'Test Planning'
+				'Test Planning',
+                                'Inherent bug hunter; I sniff them out effortlesly',
+                                'Data is my north star; I can weave a narrative around metrics',
+                                'Agile, with a touch of elegance in test orchestration'
 			         ]
 	
 	def getCity():
