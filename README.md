@@ -47,6 +47,10 @@
  
 	def Ambitions():
 		LearnJapanese()
+
+Feedback Loops over Linear Paths
+Continuous Learning over Complacency
+Transparent Communication over Muted Whispers 
 	
  ```
 </div>
