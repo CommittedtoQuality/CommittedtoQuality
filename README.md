@@ -48,6 +48,8 @@
 	def Ambitions():
 		LearnJapanese()
 
+My Values
+Users' Delight over Quick Fixes
 Feedback Loops over Linear Paths
 Continuous Learning over Complacency
 Transparent Communication over Muted Whispers 
